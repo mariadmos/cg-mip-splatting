@@ -99,9 +99,6 @@ python convert_blender_data.py --blender_dir nerf_synthetic/ --out_dir multi-sca
 # Mip-NeRF 360: download from https://jonbarron.info/mipnerf360/
 ```
 
-After training, fuse the 3D filter into the parameters to visualize in the
-[Mip-Splatting online viewer](https://niujinshuchong.github.io/mip-splatting-demo):
-
 ## Credits
 
 Training/rendering/rasterization code is from the original [Mip-Splatting](https://niujinshuchong.github.io/mip-splatting/),
